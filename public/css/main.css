@@ -1,0 +1,117 @@
+.status-media {
+  border: 1px solid #E3E3E3;
+  border-bottom: none;
+  background: white;
+  padding: 1em; }
+
+.status-media-heading {
+  color: #409dd1;
+  position: relative;
+  top: 5px; }
+
+.status-media-body {
+  color: #B3BAC0;
+  font-size: 1.2em;
+  padding: 0.5em 1em 1em 1em; }
+
+.status-media-object {
+  position: relative;
+  top: 13px;
+  left: 10px;
+  border: 1px solid #eeeeee; }
+
+.status-media-time {
+  text-transform: uppercase;
+  font-size: 0.7em;
+  letter-spacing: 0.15em;
+  color: #ccd0d3; }
+
+.status-post {
+  border: 1px solid #E3E3E3;
+  background: white;
+  margin-bottom: 3em;
+  padding: 0; }
+  .status-post textarea {
+    border: none; }
+    .status-post textarea:focus {
+      -webkit-box-shadow: none;
+      box-shadow: none; }
+  .status-post .status-post-submit {
+    border-top: 1px solid #E9E9E9;
+    padding: 0.5em 1em;
+    margin-bottom: 0;
+    overflow: hidden;
+    background: #FDFCFC; }
+    .status-post .status-post-submit .btn {
+      float: right;
+      background: #2eb1e4;
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-family: helvetica; }
+      .status-post .status-post-submit .btn:hover {
+        background: #2790b1; }
+
+.comments__create-form textarea {
+  border: 1px solid #e3e3e3;
+  border-top: none;
+  -webkit-border-radius: 0;
+  border-radius: 0; }
+
+.comments {
+  margin-bottom: 5em; }
+
+.comments__comment {
+  background: #e6e6e6;
+  margin-top: 0;
+  border: 1px solid #d9d9d9;
+  border-bottom: 1px solid #e3e3e3; }
+
+.btn-primary {
+  background: #00BAE9;
+  border: 1px solid #0092b6; }
+
+.navbar-default {
+  background-color: #00BAE9;
+  border-color: #f3f3f3; }
+  .navbar-default .navbar-brand {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 0.1em; }
+  .navbar-default .navbar-nav > li > a {
+    color: #fff; }
+    .navbar-default .navbar-nav > li > a:hover {
+      color: #2C6C91; }
+
+.navbar-default .navbar-nav > .active > a {
+  background-color: #0092b6; }
+
+.nav-gravatar {
+  float: left;
+  position: relative;
+  top: -6px;
+  left: -10px;
+  border: 1px solid #eeeeee; }
+
+.users {
+  margin-bottom: 3em; }
+
+.user-block {
+  text-align: center; }
+
+.user-block .media-object {
+  margin: auto; }
+
+body {
+  padding-top: 80px;
+  background-color: #f0f0f0;
+  font-family: 'Roboto', sans-serif; }
+
+.container h1:first-of-type {
+  margin-top: 0; }
+
+.page-header {
+  text-align: center;
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #ddd; }

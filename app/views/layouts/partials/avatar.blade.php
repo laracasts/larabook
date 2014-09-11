@@ -1,0 +1,1 @@
+<img class="media-object" src="{{ $user->present()->gravatar(isset($size) ? $size : 30) }}" alt="{{ $user->username }}">

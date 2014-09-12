@@ -129,3 +129,7 @@ What if one of our Larabook members forgets their password? Right now, they're c
 ### 30. [Status Comments](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/30)
 
 A core feature of Larabook hasn't yet been implemented. Users need to have the ability to comment on existing statuses. We'll implement that very thing in this episode.
+
+### 31. [Let's Deploy This Thing](https://laracasts.com/series/build-a-laravel-app-from-scratch/episodes/31)
+
+Let's imagine that we've invested far more than just a few hours worth of time into this application. It's now time to push it to production. To do this, we'll leverage both [DigitalOcean](https://www.digitalocean.com/) and [Laravel Forge](https://forge.laravel.com/). Hopefully, you'll see just how easy this is. Our community is spoiled!

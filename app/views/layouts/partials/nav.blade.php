@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ Auth::check() ? route('statuses_path') : route('home') }}">Larabook on Forge</a>
+            <a class="navbar-brand" href="{{ Auth::check() ? route('statuses_path') : route('home') }}">Larabook changed</a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
